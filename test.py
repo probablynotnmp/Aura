@@ -3,8 +3,8 @@ import azure.cognitiveservices.speech as speechsdk
 import time
 
 # Set your API keys
-anthropic_api_key = "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"
-speech_key = "c9098c43c280448c8f3c76065ce80847"
+anthropic_api_key = "..."
+speech_key = "c9098c43c2...."
 service_region = "centralindia"
 
 # Initialize the Anthropic client
