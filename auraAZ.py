@@ -3,7 +3,7 @@ import requests
 import base64
 
 # Configuration
-API_KEY = "9db0bff9b2c34f758bcaf54b0de25d12"
+API_KEY = "9db0bff9b2c.........."
 headers = {
     "Content-Type": "application/json",
     "api-key": API_KEY,
