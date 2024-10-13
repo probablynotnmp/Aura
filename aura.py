@@ -2,8 +2,8 @@ import cohere
 import azure.cognitiveservices.speech as speechsdk
 import time
 
-cohere_api_key = "8iC9J6oTj8M7O6x7H0wkzsnizOXecxx9i51Qtwoo"
-speech_key = "c9098c43c280448c8f3c76065ce80847"
+cohere_api_key = "8iC9J6oTj8M......"
+speech_key = "c9098c43c28...."
 service_region = "centralindia"
 
 co_client = cohere.Client(cohere_api_key)
