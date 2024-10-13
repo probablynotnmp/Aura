@@ -3,9 +3,9 @@ import openai
 import time
 import tiktoken
 
-openai.api_key = "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"
+openai.api_key = "qLMA"
 
-speech_key = "c9098c43c280448c8f3c76065ce80847"
+speech_key = "c9098c847"
 service_region = "centralindia"
 
 def num_tokens_from_string(string: str, model: str = "gpt-4o-mini"):
